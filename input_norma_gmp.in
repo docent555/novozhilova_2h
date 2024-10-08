@@ -1,0 +1,11 @@
+ &PARAM
+ PITCH   = 1.5
+ NHARM   = 2
+ UKV     = 22
+ F_OP    = 28.0175 
+ M       =  0
+ Q       =  2
+ Rb      =  4.52
+ Rr      =  11.96
+ ESTX    =  7
+ /
